@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Diploma2</string>
+    <string name="menu">Menu</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="info_calculator">Здесь Вы сможете расчитать Max и Min количество ккал, которые вам нужно упротреблять в сутки для поддержания вашего веса, без физических нагрузок</string>
+    <string name="info_calculator2">Для того что бы Вы понимали до какого диапазона ккал Вам нужно спустится, укажите ниже вес который Вы бы хотели иметь. После чего вам нужно будет по немногу спускатся с вашего Мах ккал Вашего веса до Мin ккал желаемого веса</string>
+    <string name="info_muscle_groups">Здесь показанны именно такие тренировочные дни потому что </string>
+    <string name="title_activity_muscle_groups">muscle_groups</string>
+    <string name="title_activity_food">Food</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_shoulders">Shoulders</string>
+    <string name="title_activity_biceps">Biceps</string>
+    <string name="title_activity_triceps">Triceps</string>
+    <string name="title_activity_forearm">Forearm</string>
+    <string name="title_activity_back">Back</string>
+    <string name="title_activity_chest">Chest</string>
+    <string name="title_activity_legs">Legs</string>
+
+    <string name="info_section1">В данном разделе вы можете найти ссылки на интересные ютюб каналы, которые могу поспособствовать вашему развитию</string>
+    <string name="info_name1">Виктор Блуд</string>
+    <string name="info_section2">Виктор Блуд - Силач, основатель движения «Силачи Старой Школы». МСМК по армлифтингу, обладатель мирового рекорда в категории до 90 кг. Действующий спортсмен и тренер в клубе "Нева Кроссфит"
+    Ссылка на ютюб канал: https://www.youtube.com/user/Blud1488</string>
+    <string name="title_activity_roseltat">Roseltat</string>
+</resources>

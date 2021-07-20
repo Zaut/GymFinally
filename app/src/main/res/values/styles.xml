@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="header_text">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="info_text">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">23dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="exercise_name">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">23dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="exercise_text">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:gravity">left</item>
+    </style>
+</resources>
